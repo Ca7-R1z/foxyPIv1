@@ -1,7 +1,6 @@
 /*
 Original project by FoxyLabs
 Developed a bit by me
-Removed LCD + Added MovingMedian function
 */
 #include <RunningMedian.h>
 #include <JeeLib.h> // Low power functions library
